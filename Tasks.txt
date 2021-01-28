@@ -1,0 +1,7 @@
+1. Show data cleaning and preparation steps
+
+2. Perform EDA on the given dataset and list out findings
+
+3. Predict total cost of treatment for each patient (Baseline model and improvements made) - Use RMSE as a metric and provide best possible score
+
+4. List the important features in predicting the cost of treatment
